@@ -1,13 +1,10 @@
 <!DOCTYPE html>
 <html>
-<background-color="color:light blue:">
-<h1>LOGIN PAGE</h1>
-
 <body>
-
-<li><button type="button" button style="color:red;">
+<h1>LOGIN PAGE</h1>
+<li><button type="button" style="color:red;background-color:blue">
 user name</button></li>
-          <li><button type="button"button style="color:red;">
+          <li><button type="button" style="color:red;">
 password</button></li>
 </body>
 </html>
